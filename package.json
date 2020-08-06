@@ -1,0 +1,25 @@
+{
+  "name": "law",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemon": "^2.0.3",
+    "npm": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
